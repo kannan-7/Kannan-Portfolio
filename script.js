@@ -12,17 +12,17 @@ const github = document.querySelector("#github");
 
 btnMenu.addEventListener("click", function () {
   console.log("btn Clicked");
-  window.open("Day-1/page2.html", "_blank");
+  window.open("https://kannan-7.github.io/SEC-Day-1/", "_blank");
 });
 
 pr1.addEventListener("click", function () {
   console.log("pr1 picture clicked");
-  window.open("Day-4/box-model/box-model.html", "_blank");
+  window.open("https://kannan-7.github.io/SEC-Day-4/", "_blank");
 });
 
 pr2.addEventListener("click", function () {
   console.log("pr2 picture clicked");
-  window.open("Day-5/digital-agency/digital-agency.html", "_blank");
+  window.open("https://kannan-7.github.io/SEC-Day-5/", "_blank");
 });
 
 pr3.addEventListener("click", function () {
@@ -32,17 +32,17 @@ pr3.addEventListener("click", function () {
 
 pr4.addEventListener("click", function () {
   console.log("pr4 picture clicked");
-  window.open("Day-8/greetings/BMI-Calculator/BMI-Calculator.html", "_blank");
+  window.open("https://kannan-7.github.io/SEC-Day-8/", "_blank");
 });
 
 pr5.addEventListener("click", function () {
   console.log("pr5 picture clicked");
-  window.open("Day-12/todo-app/todo-app.html", "_blank");
+  window.open("https://kannan-7.github.io/SEC-Day-12/", "_blank");
 });
 
 pr6.addEventListener("click", function () {
   console.log("pr6 picture clicked");
-  window.open("Day-9/Packman/Packman.html", "_blank");
+  window.open("https://kannan-7.github.io/SEC-Day-9/", "_blank");
 });
 
 envelope.addEventListener("click", function () {
