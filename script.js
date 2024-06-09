@@ -17,12 +17,12 @@ btnMenu.addEventListener("click", function () {
 
 pr1.addEventListener("click", function () {
   console.log("pr1 picture clicked");
-  window.open("Day-4/box-model/index.html", "_blank");
+  window.open("Day-4/box-model/box-model.html", "_blank");
 });
 
 pr2.addEventListener("click", function () {
   console.log("pr2 picture clicked");
-  window.open("Day-5/digital-agency/index.html", "_blank");
+  window.open("Day-5/digital-agency/digital-agency.html", "_blank");
 });
 
 pr3.addEventListener("click", function () {
@@ -32,17 +32,17 @@ pr3.addEventListener("click", function () {
 
 pr4.addEventListener("click", function () {
   console.log("pr4 picture clicked");
-  window.open("Day-8/greetings/BMI-Calculator/index.html", "_blank");
+  window.open("Day-8/greetings/BMI-Calculator/BMI-Calculator.html", "_blank");
 });
 
 pr5.addEventListener("click", function () {
   console.log("pr5 picture clicked");
-  window.open("Day-12/todo-app/index.html", "_blank");
+  window.open("Day-12/todo-app/todo-app.html", "_blank");
 });
 
 pr6.addEventListener("click", function () {
   console.log("pr6 picture clicked");
-  window.open("Day-9/Packman/index.html", "_blank");
+  window.open("Day-9/Packman/Packman.html", "_blank");
 });
 
 envelope.addEventListener("click", function () {
@@ -65,5 +65,5 @@ whatsapp.addEventListener("click", function () {
 
 github.addEventListener("click", function () {
   console.log("github picture clicked");
-  window.open("https://github.com/kannan-7", "_blank");
+  window.open("https://github.com/kannan-7/Kannan-Portfolio", "_blank");
 });
